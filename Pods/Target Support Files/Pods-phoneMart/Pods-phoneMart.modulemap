@@ -1,0 +1,6 @@
+framework module Pods_phoneMart {
+  umbrella header "Pods-phoneMart-umbrella.h"
+
+  export *
+  module * { export * }
+}
